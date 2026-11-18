@@ -20,4 +20,4 @@ The system is structured across four interconnected tables:
 
 ---
 **Author:** Dagnaw Aysie  
-**GitHub:** [@dagnaw-aysie](https://github.com)
+**GitHub:** [@
